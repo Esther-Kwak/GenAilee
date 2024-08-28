@@ -1,0 +1,3 @@
+- wireless 전처리
+- 전처리 내용에 따라 이전 데이터 점검 (adaptor, pad)
+- cumsum 내용 확인 
